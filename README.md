@@ -152,5 +152,3 @@ Based on methods described in:
 > “Enhanced Vehicle Routing for Medical Waste Management via Hybrid Deep Reinforcement Learning and Optimization Algorithms” (2024)
 
 ```
-
----
