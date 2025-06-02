@@ -1,6 +1,6 @@
 # CVRP Solver with Tabular Q-Learning and Deep Q-Network (DQN)
 
-This repository provides implementations of **Tabular Q-Learning** and **Deep Q-Network (DQN)** to solve a variant of the **Capacitated Vehicle Routing Problem (CVRP)** — tailored for medical waste collection, using real hospital demand and distance data.
+This repository provides implementations of **Tabular Q-Learning** and **Deep Q-Network (DQN)** to solve a variant of the **Capacitated Vehicle Routing Problem (CVRP)** — tailored for medical waste collection, using hospital demand and distance data.
 
 ---
 
